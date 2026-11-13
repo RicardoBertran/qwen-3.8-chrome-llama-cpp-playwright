@@ -1,0 +1,8 @@
+bin/
+models/
+local.json
+session-mcp.json
+runtime/**/node_modules/
+runtime/**/artifacts/
+__pycache__/
+*.log
